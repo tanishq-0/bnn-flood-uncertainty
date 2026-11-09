@@ -1,0 +1,8 @@
+torch>=2.0
+pyro-ppl>=1.9
+numpy
+pandas
+scikit-learn
+imbalanced-learn
+scipy
+matplotlib
